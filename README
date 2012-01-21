@@ -1,1 +1,1 @@
-Implemented absolute addressing mode and 10 opcodes for the MOS 6502 in C and Assembly. This was an assignment for school so most of the C code was given to us by the professor.
+Implemented absolute addressing mode and 10 opcodes for the MOS 6502 in Assembly and C. This was an assignment for school so most of the C code was given to us by the professor.
