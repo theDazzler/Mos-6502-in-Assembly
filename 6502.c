@@ -1,6 +1,4 @@
-// 6502.c -- the base code for this simulator has been around on USENET
-// and the intertubes forever. Author unknown. I've made adjustments and
-// additions where necessary.
+// 6502.c 
 
 // Memory map for the simulated system:
 // $0000 - $0100 	Zero page
