@@ -1,5 +1,4 @@
-// simmain.c -- A (very) simple driver program for your 6502 simulator. Everything
-// in here is my fault.
+// simmain.c -- A (very) simple driver program for 6502 simulator
 //
 // Memory map for the simulated system:
 // $0000 - $0100 	Zero page
